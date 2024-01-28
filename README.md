@@ -23,7 +23,7 @@ To start the application, follow these steps:
 docker-compose up -d
 ```
 
-This will start the application, and you can access it through the browser at [http://localhost:3001](http://localhost:3001).
+This will start the application, and you can access it through the browser at [http://localhost:3000](http://localhost:3000).
 
 ## Additional Notes
 
